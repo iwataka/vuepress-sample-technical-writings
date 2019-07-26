@@ -1,6 +1,7 @@
 module.exports = {
   title: 'Hello VuePress',
   description: 'technical writing by using VuePress',
+  base: '/vuepress-sample-technical-writings/',
   themeConfig: {
     sidebar: [
       '/',
