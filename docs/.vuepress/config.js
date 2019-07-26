@@ -3,6 +3,9 @@ module.exports = {
   description: 'technical writing by using VuePress',
   base: '/vuepress-sample-technical-writings/',
   themeConfig: {
+    nav: [
+      { text: 'GitHub', link: 'https://github.com/iwataka/vuepress-sample-technical-writings' }
+    ],
     sidebar: [
       '/',
       {
